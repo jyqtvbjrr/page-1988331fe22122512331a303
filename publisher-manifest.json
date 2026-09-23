@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4e71d180c473ecea6502b13d",
+  "owner": "jyqtvbjrr",
+  "repo": "page-1988331fe22122512331a303",
+  "title": "LabX",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1988331fe22122512331a303",
+      "a": "LabX",
+      "b": "稳定全球clash加速器",
+      "entity": "LabX",
+      "brand": "LabX",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bdf765e133bb9687a459e7f800104fab079a1e3c122e54b005bba858c596ea15",
+      "content": {
+        "primary_entity": "LabX",
+        "keyword1": "LabX",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据不同设备选择 Clash 客户端：Windows 与 macOS 用 Clash Verge，Android 用 Clash Meta，iOS 用 Shadowrocket 或 Stash，路由器可按 OpenWrt 插件文档配置。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLOSING_TEXT": "挑选与设备匹配的套餐，按客户端文档导入订阅即可开始。",
+          "AI_CLOSING_TITLE": "按需选择，稳定连接",
+          "AI_DESCRIPTION": "，LabX 提供基础版、旗舰版与团队版三档订阅，按流量、设备数与节点类型区分，Clash 客户端导入订阅后即可在常用设备上使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备。按年付分别约 ¥150、¥350 与 ¥850。",
+          "AI_FAQ_ANSWER_2": "可以。在 Clash 客户端中导入订阅链接后，手机、平板、电脑与路由器都能按同一套餐使用，设备数量以所选套餐的上限为准。",
+          "AI_FAQ_ANSWER_3": "基础版适合单人或轻量使用；旗舰版带 IPLC 专线与流媒体解锁，适合游戏与追剧；团队版提供 VIP 高带宽节点与定制路由。",
+          "AI_FAQ_ANSWER_4": "在固定套餐中，旗舰版包含流媒体解锁与 IPLC 专线节点，团队版提供 VIP 专属高带宽节点，适合对速度要求较高的场景。",
+          "AI_FAQ_ANSWER_5": "基础版适合个人日常；团队版支持 20 台设备并包含企业定制路由与专属客户经理，预算充足时也可按需升级其他版本。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "LabX 各套餐的流量和设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "可以在多台设备同时使用 LabX 吗？",
+          "AI_FAQ_QUESTION_3": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_4": "哪个套餐适合观看流媒体或游戏加速？",
+          "AI_FAQ_QUESTION_5": "个人使用和团队使用分别推荐哪个版本？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从套餐对比、设备数量到订阅周期，选对适合的版本。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别约 ¥150、¥350、¥850。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备，可按使用人数与终端数量匹配。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线与流媒体解锁，团队版提供 VIP 高带宽节点，适合更高负载场景。",
+          "AI_FEATURE_TITLE_1": "套餐按月与按年",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "高带宽节点选择",
+          "AI_GUIDE_INTRO": "按需求选定版本，确认设备兼容性，再导入订阅。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_HERO_INTRO": "LabX 提供多个海外加速订阅版本，支持在 Clash 客户端中导入使用，覆盖 Windows、macOS、Android、iOS 与路由器等常见设备，按流量、设备数与节点类型划分套餐。",
+          "AI_HERO_SUBTITLE": "多设备 Clash 订阅选择",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合个人轻量，旗舰版带专线游戏优化，团队版覆盖多设备与企业路由。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量与同时在线设备数，在基础版、旗舰版、团队版之间挑选。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限与节点类型，确认常用 Clash 客户端是否匹配。",
+          "AI_STEP_TEXT_3": "按照所用客户端的文档导入订阅，完成节点选择并开始使用。",
+          "AI_STEP_TITLE_1": "选定版本",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "LabX Clash 订阅"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nspbv.cn",
+    "host": "nspbv.cn"
+  },
+  "file_hashes": {
+    "index.html": "23090aa0e7b889376bc0ef0068f7499b3db256172733aaac3e636053c2b38c5b",
+    "sitemap.xml": "996ad7f6dd9632e880ff7f741d5dad76c8d2e77282866713e5e364699daf4487",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d25221eb021eef1e0abaa42c096c6ba37aa8dbd92207c64e691d19b29c3a3801",
+    "robots.txt": "ea81673aa2a84c3556b73e1d5ebb15305b06b392d9218e9e0b8ef703c50ebf85",
+    "c8e6fee148c2209de5438cc2b903d6ba.txt": "66d3ae2c0a9f18858b28256969cf93d0af2e368c1ce3054917c82c2b677ed823"
+  },
+  "revision": "21e1ce297d65492c76a978d2c0157a0d93281bf5852a92ba36a3dd1ef1ab72f0"
+}

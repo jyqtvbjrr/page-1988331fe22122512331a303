@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nspbv.cn/sitemap.xml
